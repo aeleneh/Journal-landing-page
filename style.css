@@ -96,14 +96,17 @@ nav {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
-.auth-button li a:nth-child(2) {
+.auth-button li:nth-child(2) a {
     border: 1px #d24693 solid;
     background-color: #d24693;
     color: #f8f9fa;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
-.login-btn:hover {
+.auth-button li:nth-child(2) a:hover {
     color: #929292;
+    background-color: #b83d76; 
+    transform: scale(1.05);
 }
 
 .register-btn {
