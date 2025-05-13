@@ -2,10 +2,9 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    font-family: "Mona Sans", serif;
+    font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
     font-style: normal;
-    font-variation-settings: "wdth" 100;
 }
 
 body {
@@ -99,6 +98,8 @@ nav {
 
 .login-btn {
     border: 1px #d24693 solid;
+    background-color: #d24693;
+    color: #f8f9fa;
 }
 
 .login-btn:hover {
