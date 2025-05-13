@@ -96,7 +96,7 @@ nav {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
-.login-btn {
+.auth-button li a:nth-child(2) {
     border: 1px #d24693 solid;
     background-color: #d24693;
     color: #f8f9fa;
